@@ -1,6 +1,10 @@
 # OpenYoke Project
-## banner
+---
 Open Source Flight Simulator Yoke
+
+
+## banner
+
 
 Lorem Ipsum
 
