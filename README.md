@@ -59,3 +59,7 @@ Lorem Ipsum
 - [ ] - OLED Display
 
 - [ ] - mini Radio module with OLED screen
+
+## Participate and improve
+
+by giving feedback via "issues". Also suggest new add-ons.
