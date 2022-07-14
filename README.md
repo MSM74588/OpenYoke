@@ -48,8 +48,13 @@ Lorem Ipsum
 ![WIP](https://github.com/MSM74588/OpenYoke/blob/main/OpenYoke-icons/Planned-Badge.png?raw=true)
 
 ## Add-ons (Comming Soon)
+
 [ ] - Deskmount
+
 [ ] - Landing Gear
+
 [ ] - Tablet/Mobile Holder
+
 [ ] - OLED Display
+
 [ ] - mini Radio module with OLED screen
