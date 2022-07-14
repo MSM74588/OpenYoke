@@ -1,7 +1,8 @@
 # 🎮 OpenYoke Project
 Desktop mountable 3D Printed Flight Simulator Yoke Controller using Arduino.
 Design inspired from B787.
-With add-on supports
+
+With add-on support
 
 ## banner
 GIF --> GIF
