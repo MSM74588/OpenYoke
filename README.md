@@ -49,12 +49,12 @@ Lorem Ipsum
 
 ## Add-ons (Comming Soon)
 
-[ ] - Deskmount
+- [ ] - Deskmount
 
-[ ] - Landing Gear
+- [ ] - Landing Gear
 
-[ ] - Tablet/Mobile Holder
+- [ ] - Tablet/Mobile Holder
 
-[ ] - OLED Display
+- [ ] - OLED Display
 
-[ ] - mini Radio module with OLED screen
+- [ ] - mini Radio module with OLED screen
